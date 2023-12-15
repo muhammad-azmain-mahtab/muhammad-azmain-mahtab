@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views)
-- 🔭 I’m currently working on **Machine Learning(Computer Vision, OCR, Image Captioning)** 
+- 🔭 I’m currently working on **Machine Learning(Computer Vision - OCR, Image Captioning)** 
 - 🌱 I’m currently learning **CLIP, BERT**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 🤔 I’m looking for help with **Research on Machine Learning**
