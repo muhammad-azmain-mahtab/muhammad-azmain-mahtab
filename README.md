@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there stranger👋
 
 <!--
 **AzmainO7/AzmainO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views)
+- 🔭 I’m currently working on **Machine Learning(OCR, Image Captioning)** 
+- 🌱 I’m currently learning **CLIP, BERT**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 🤔 I’m looking for help with **Research on Machine Learning**
