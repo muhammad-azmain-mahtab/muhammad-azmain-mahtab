@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### 💻 My workspace   
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![image](https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![image](https://img.shields.io/badge/NVIDIA-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AzmainO7})
+![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzmainO71212%2Fhit-counter)
