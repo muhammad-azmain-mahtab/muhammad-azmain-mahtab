@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views)
 - 🔭 I’m currently working on **Machine Learning(Computer Vision - OCR, Image Captioning)** 
-- 🌱 I’m currently learning **CLIP, BERT**
+- 🌱 I’m currently learning **CLIP, BERT, PaddleOCR**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 🤔 I’m looking for help with **Research on Machine Learning**
 - 📫 How to reach me: ...
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <summary>📃 Resume</summary>
   
 ## Education
-- 📖 **Computer Science & Engineering (CSE)**\
+- 📖 **B.Sc. in Computer Science & Engineering**\
 📆 2020 - Present\
 📍 **Ahsanullah University of Science and Technology** - Dhaka, Bangladesh
 
@@ -44,15 +44,27 @@ Here are some ideas to get you started:
   <summary>💻 Workstation</summary>
   <br>
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   
 </details>
 
-## ⚙️ Languages and Tools
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<br>
+<details>
+  <summary>⚙️ Languages and Tools</summary>
+  <br>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainO7" />
+</details>
+
+<details>
+  <summary>💡 Hobbies & Interests</summary>
+  <br>
+  <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</details>
 
 <!-- ![image](https://github-profile-trophy.vercel.app/?username=AzmainO7) -->
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainO7)
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainO7&theme=synthwave) -->
