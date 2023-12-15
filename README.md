@@ -68,8 +68,11 @@ Here are some ideas to get you started:
 <details>
   <summary>💡 Hobbies & Interests</summary>
   <br>
-  <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Travelling-green" />
+  <img src="https://img.shields.io/badge/Astronomy-green" />
+  <img src="https://img.shields.io/badge/Technology-green" />
 </details>
 
 <!-- ![image](https://github-profile-trophy.vercel.app/?username=AzmainO7) -->
