@@ -1,4 +1,5 @@
 ### Hi there stranger👋
+💬 "Service to others is the rent you pay for your room here on earth" - Muhammad Ali
 
 <!--
 **AzmainO7/AzmainO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
