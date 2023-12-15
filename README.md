@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **CLIP, BERT, PaddleOCR**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 🤔 I’m looking for help with **Research on Machine Learning**
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="mailto:azmainmah@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a> <a href="https://www.facebook.com/azmain.mahtab.07">
+  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+</a> <a href="https://www.linkedin.com/in/muhammad-azmain-mahtab-45a60b255">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
 
 <details>
   <summary>📃 Resume</summary>
