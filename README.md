@@ -86,6 +86,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Travelling-green" />
   <img src="https://img.shields.io/badge/Astronomy-green" />
   <img src="https://img.shields.io/badge/Technology-green" />
+  <img src="https://img.shields.io/badge/Gaming-green" />
 </details>
 
 <!-- ![image](https://github-profile-trophy.vercel.app/?username=AzmainO7) -->
