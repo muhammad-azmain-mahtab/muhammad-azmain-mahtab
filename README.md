@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Travelling-grey" />
   <img src="https://img.shields.io/badge/Gaming-grey" />
-  <img src="https://img.shields.io/badge/Watching Movies/TV Series-light-grey" />
+  <img src="https://img.shields.io/badge/Watching Movies/TV Series-grey" />
   <img src="https://img.shields.io/badge/Astronomy-blue" />
   <img src="https://img.shields.io/badge/Technology-blue" />
 </details>
