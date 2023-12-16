@@ -83,10 +83,11 @@ Here are some ideas to get you started:
   <br>
   <!-- <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Travelling-green" />
-  <img src="https://img.shields.io/badge/Astronomy-green" />
-  <img src="https://img.shields.io/badge/Technology-green" />
-  <img src="https://img.shields.io/badge/Gaming-green" />
+  <img src="https://img.shields.io/badge/Travelling-grey" />
+  <img src="https://img.shields.io/badge/Gaming-grey" />
+  <img src="https://img.shields.io/badge/Watching Movies/TV Series-light-grey" />
+  <img src="https://img.shields.io/badge/Astronomy-blue" />
+  <img src="https://img.shields.io/badge/Technology-blue" />
 </details>
 
 <!-- ![image](https://github-profile-trophy.vercel.app/?username=AzmainO7) -->
