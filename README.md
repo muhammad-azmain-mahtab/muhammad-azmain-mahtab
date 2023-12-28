@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary>📃 Resume</summary>
-  
-## Education
-- 📖 **B.Sc. in Computer Science & Engineering**\
-📆 2020 - Present\
-📍 **Ahsanullah University of Science and Technology** - Dhaka, Bangladesh
 
 ## Experience
 <img align="right" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
@@ -43,6 +38,11 @@ Here are some ideas to get you started:
 - 👨‍💻 **Trainee Engineer (AI Intern)**\
 📆 August 20, 2023 - November 20, 2023\
 📍 **Systech Datasoft Ltd.** - Dhaka, Bangladesh
+  
+## Education
+- 📖 **B.Sc. in Computer Science & Engineering**\
+📆 2020 - Present\
+📍 **Ahsanullah University of Science and Technology** - Dhaka, Bangladesh
 
 </details>
 
