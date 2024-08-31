@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 ## Education
 - 📖 **B.Sc. in Computer Science & Engineering**\
-📆 2020 - Present\
+📆 2020 - 2024\
 📍 **Ahsanullah University of Science and Technology** - Dhaka, Bangladesh
 
 </details>
