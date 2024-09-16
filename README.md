@@ -4,7 +4,6 @@
 <!--
 **AzmainO7/AzmainO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views)
-- 🔭 I’m currently working on **Machine Learning(Computer Vision - OCR, Image Captioning)** 
-<!--- 🌱 I’m currently learning -->
+<!--![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views) -->
+
+<a href="https://www.linkedin.com/in/muhammad-azmain-mahtab-45a60b255">
+  <img align="top" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
+</a>
+<hr>
+
+- 🔭 I’m currently working on **Machine Learning(Computer Vision - OCR, Image Captioning)** <!--- 🌱 I’m currently learning -->
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 🤔 I’m looking for help with **Research on Machine Learning**
 - 📫 How to reach me: <a href="mailto:azmainmah@gmail.com">
