@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--![](https://komarev.com/ghpvc/?username=AzmainO7&style=flat-square&label=Profile+Views) -->
 
-<a href="https://www.linkedin.com/in/muhammad-azmain-mahtab-45a60b255">
+<a href="https://www.researchgate.net/profile/Muhammad-Azmain-Mahtab">
   <img align="top" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
 </a>
 <hr>
