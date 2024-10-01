@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainO7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-azmain-mahtab" />
 </details>
 
 
